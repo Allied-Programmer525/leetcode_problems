@@ -31,6 +31,7 @@ This repo consists of all leetcode problems in c language
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Allied-Programmer525/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Allied-Programmer525/leetcode_problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Trie
 |  |
 | ------- |
